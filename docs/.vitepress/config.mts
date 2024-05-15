@@ -19,7 +19,7 @@ export default defineConfig({
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       },{
-        text: 'C++ Primary笔记',
+        text: 'C++ Primer笔记',
         items: [
           { 
             text: '变量和基本类型', collapsed: true, base: '/C++ Primary笔记/变量和基本类型', 
