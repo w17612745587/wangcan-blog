@@ -22,7 +22,7 @@ export default defineConfig({
         text: 'C++ Primer笔记',
         items: [
           { 
-            text: '变量和基本类型', collapsed: true, base: '/C++ Primary笔记/变量和基本类型', 
+            text: '变量和基本类型', collapsed: true, base: '/C++ Primer笔记/变量和基本类型', 
             items: [
               { text: '复合类型', link: '/复合类型'}, 
               { text: 'const限定符', link: '/const限定符'},
