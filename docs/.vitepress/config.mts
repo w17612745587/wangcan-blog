@@ -26,6 +26,7 @@ export default defineConfig({
             items: [
               { text: '复合类型', link: '/复合类型'}, 
               { text: 'const限定符', link: '/const限定符'},
+              { text: '处理类型', link: '/处理类型'},
               { text: '练习题', link: '/练习题'},
             ] 
           },
@@ -35,7 +36,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/w17612745587/wangcan-blog' }
     ]
   }
 })
